@@ -1,16 +1,21 @@
-## Hi there 👋
+## Henry Possajennikov
 
-<!--
-**HenryPoss/HenryPoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Study
 
-Here are some ideas to get you started:
+I study a Bachelor of Information Technology at University of Technology Sydney.
+- Major: Enterprise Systems Development
+- Sub-major: Data Analytics
+- Sub-major: Business Information Systems Management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+At the current moment I am taking a gap year. During this gap year I am studying industry-leading courses to attain current skills and knowledge within IT, business and finance (my three interests). I also work on projects to consolidate my knowledge and present my skills. Additionally, I attend networking events and various other university events to improve my network and interpersonal skills. I hope to gain a winter and summer internship during my penultimate year in order to prepare myself for the workforce after graduation.
+
+## Projects
+
+As mentioned I currently work on projects based on the content I study within my online courses. I additionally have some interesting projects from University and also some projects that were part of the online courses I completed. Any code for these projects will be included on my Github as they are completed.
+
+The rest of my Github repositories consist of code that I wrote whilst I was completing my online learnings. This code mostly consists of tutorial code that aided my learning.
+
+## Links/Contacts
+
+You can see all my projects on my portfolio here: [Henry Possajennikov - Portfolio](https://picayune-maraca-35d.notion.site/Portfolio-Henry-Possajennikov-3157233fa4ec808084efd21f0aa55856?pvs=74)
+My LinkedIn can be found here: [LinkedIn](https://www.linkedin.com/in/henry-possajennikov-88490b336/)
