@@ -1,6 +1,6 @@
-## Henry Possajennikov
+# Henry Possajennikov
 
-### Study
+## Study
 
 I study a Bachelor of Information Technology at University of Technology Sydney.
 - Major: Enterprise Systems Development
