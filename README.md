@@ -17,5 +17,5 @@ The rest of my Github repositories consist of code that I wrote whilst I was com
 
 ## Links/Contacts
 
-You can see all my projects on my portfolio here: [Henry Possajennikov - Portfolio](https://picayune-maraca-35d.notion.site/Portfolio-Henry-Possajennikov-3157233fa4ec808084efd21f0aa55856?pvs=74)  
+You can see all my projects on my portfolio here: [Henry Possajennikov - Portfolio](https://henryposs.notion.site/Portfolio-Henry-Possajennikov-3157233fa4ec808084efd21f0aa55856)  
 My LinkedIn can be found here: [LinkedIn](https://www.linkedin.com/in/henry-possajennikov-88490b336/)
