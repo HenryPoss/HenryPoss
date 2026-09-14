@@ -1,21 +1,26 @@
 # Henry Possajennikov
 
-## Study
+## About Me
 
-I study a Bachelor of Information Technology at University of Technology Sydney.
-- Major: Enterprise Systems Development
-- Sub-major: Data Analytics
-- Sub-major: Business Information Systems Management
+I am undertaking a Bachelor of Information Technology at the University of Technology Sydney. 
 
-At the current moment I am taking a gap year. During this gap year I am studying industry-leading courses to attain current skills and knowledge within IT, business and finance (my three interests). I also work on projects to consolidate my knowledge and present my skills. Additionally, I attend networking events and various other university events to improve my network and interpersonal skills. I hope to gain a winter and summer internship during my penultimate year in order to prepare myself for the workforce after graduation.
+I have a key interest in Data Analytics/Data Science, however I am also interested in UX Design, Consulting and Business.
 
-## Projects
+I have completed 2 years of my degree with a WAM of 86.88. I have chosen to take a gap year (2026) to study industry-leading courses whilst working on personal projects to improve and consolidate my skills for the future. I am planning on completing university in late 2027. 
 
-As mentioned I currently work on projects based on the content I study within my online courses. I additionally have some interesting projects from University and also some projects that were part of the online courses I completed. Any code for these projects will be included on my Github as they are completed.
+These courses include professional certificates from various companies (Google, Microsoft, Amazon, etc.) and universities (both domestic and abroad). The courses teach relevant industry-leading skills to prepare students for the workforce.
 
-The rest of my Github repositories consist of code that I wrote whilst I was completing my online learnings. This code mostly consists of tutorial code that aided my learning.
+I have also completed many personal projects to apply, consolidate and present the knowledge gained in these courses.
+
+Additionally I have attended various events at university including career panels, workshops, networking events, social events and project-based events. 
+
+I am currently looking to gain some hand-on industry experience to prepare me for the opportunities that lie ahead.
+
+## About my GitHub
+
+Most of the repositories on my GitHub include code that I learnt whilst studying online courses. There are also a couple of repositories that represent university projects and some which represent personal projects. The README file will mention which of these three categories the repository belongs to. 
 
 ## Links/Contacts
 
-You can see all my projects on my portfolio here: [Henry Possajennikov - Portfolio](https://henryposs.notion.site/Portfolio-Henry-Possajennikov-3157233fa4ec808084efd21f0aa55856)  
-My LinkedIn can be found here: [LinkedIn](https://www.linkedin.com/in/henry-possajennikov-88490b336/)
+You can see all my projects, certificates and job simulations on my portfolio here: [Henry Possajennikov - Portfolio](www.henryposs.com)  
+My LinkedIn can be found here: [LinkedIn](https://www.linkedin.com/in/henry-poss/)
