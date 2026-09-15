@@ -22,5 +22,5 @@ Most of the repositories on my GitHub include code that I learnt whilst studying
 
 ## Links/Contacts
 
-You can see all my projects, certificates and job simulations on my portfolio here: [Henry Possajennikov - Portfolio](www.henryposs.com)  
+You can see all my projects, certificates and job simulations on my portfolio here: [Henry Possajennikov - Portfolio](https://www.henryposs.com/)
 My LinkedIn can be found here: [LinkedIn](https://www.linkedin.com/in/henry-poss/)
